@@ -1,0 +1,19 @@
+{
+    "resolution": [
+        1920,
+        1080
+    ],
+    "num_frames": 20,
+    "noise_level": 5,
+    "flash_frames": [
+        17,
+        18
+    ],
+    "flash_center": [
+        960,
+        540
+    ],
+    "flash_length": 20,
+    "flash_brightness": 180,
+    "description": "Simulated CMOS dark frames with cosmic ray hit in center (frames 17-18)"
+}
