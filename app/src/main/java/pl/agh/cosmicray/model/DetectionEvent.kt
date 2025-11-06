@@ -1,4 +1,4 @@
-package pl.agh.cosmicray.ui
+package pl.agh.cosmicray.model
 
 data class DetectionEvent(
     val timestamp: Long,
